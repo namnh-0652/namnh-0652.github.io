@@ -1,13 +1,14 @@
 [
     {
         "relation": [
-            "delegate_permission/common.handle_all_urls"
+            "delegate_permission/common.handle_all_urls",
+            "delegate_permission/common.use_as_origin"
         ],
         "target": {
             "namespace": "android_app",
             "package_name": "namnh.android.deeplinksample",
             "sha256_cert_fingerprints": [
-                "95:20:30:2A:5B:36:06:A1:1C:35:B3:B6:DD:B6:49:FF:F1:C0:28:A1:2A:C2:1A:68:F8:A0:73:60:12:2A:EE:2A"
+                "38:F4:F0:64:E6:EB:BD:7A:8B:54:E4:C2:41:40:6B:93:97:B9:1B:4B:73:74:F2:A4:A6:33:05:DF:15:93:53:D3"
             ]
         }
     }
